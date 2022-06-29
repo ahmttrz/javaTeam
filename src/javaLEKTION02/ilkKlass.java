@@ -1,4 +1,4 @@
-package javaDers2;
+package javaLEKTION02;
 
 public class ilkKlass {
 
